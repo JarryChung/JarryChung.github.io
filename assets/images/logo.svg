@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="300">
+	<defs>
+		<g id="logo">
+      <polyline points="20 50, 70 0, 70 180, 20 130" />
+      <polyline points="160 50, 110 0, 110 180, 160 130" />
+		</g>
+	</defs>
+	<style>
+		svg {
+      stroke: #F6F4F2;
+      stroke-width: 8;
+      fill: none;
+    }
+	</style>
+	<use href="#logo" x="60" y="60" />
+</svg>
