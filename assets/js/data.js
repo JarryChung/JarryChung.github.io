@@ -9,31 +9,31 @@
     }, {
       title: '前端知识体系',
       info: '将前端内容划分为三大板块：视图层、网络层、工程化。',
-      url: '/fe-system',
+      url: '/fe-system/',
       img: './assets/images/fe-system.png',
       btn: 'Read Now'
     }, {
       title: '计算机基础',
       info: '主要包含了计算机的一些基础内容，如算法、数据结构、编码等。',
-      url: '/computer-basics',
+      url: '/computer-basics/',
       img: './assets/images/computer-basics.png',
       btn: 'Read Now'
     }, {
       title: '动手',
       info: '这里包含了一些技术或组件或有趣想法的实现思路。',
-      url: '/practice',
+      url: '/practice/',
       img: './assets/images/practice.png',
       btn: 'Read Now'
     }, {
       title: '前端面试题集',
       info: '搜集一些前端面试问题，以问答的方式呈现。',
-      url: '/interview',
+      url: '/interview/',
       img: './assets/images/interview.png',
       btn: 'Read Now'
     }, {
       title: '胡言乱语',
       info: '爱说胡话、喜欢自言自语、与影子对话。',
-      url: '/express',
+      url: '/express/',
       img: './assets/images/express.png',
       btn: 'Read Now'
     }
