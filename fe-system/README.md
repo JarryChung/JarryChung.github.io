@@ -1,3 +1,3 @@
-# Headline
+# Front-end
 
-> An awesome project.
+> 将前端内容划分为四大板块：视图层、网络层、工程化、浏览器。
