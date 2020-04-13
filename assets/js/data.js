@@ -8,7 +8,7 @@
       btn: 'More'
     }, {
       title: '前端知识体系',
-      info: '将前端内容划分为三大板块：视图层、网络层、工程化。',
+      info: '将前端内容划分为四大板块：视图层、网络层、工程化、浏览器。',
       url: '/fe-system/',
       img: './assets/images/fe-system.png',
       btn: 'Read Now'
