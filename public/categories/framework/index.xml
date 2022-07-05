@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>framework on Blog Title</title>
+    <link>https://www.jarrychung.com/categories/framework/</link>
+    <description>Recent content in framework on Blog Title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 13 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.jarrychung.com/categories/framework/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>frame-oa 说明</title>
+      <link>https://www.jarrychung.com/posts/new-content/</link>
+      <pubDate>Wed, 13 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.jarrychung.com/posts/new-content/</guid>
+      <description>&lt;p&gt;这是一段简单的介绍&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
