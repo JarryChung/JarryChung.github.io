@@ -3,6 +3,7 @@ languageCode = "en-us"
 themeLink = "https://gitlab.com/ian-s-mcb/smigle-hugo-theme"
 title = "Jarry Chung"
 enableEmoji=true
+publishDir="docs"
 
 [[menu.main]]
 identifier = "home"
