@@ -25,7 +25,9 @@ body {
   font-weight: normal;
 }
 #brand .icon {
-  width: 75px;
+  width: 90px;
+  margin-right: 8px;
+  background-color: #fff;
 }
 footer {
   margin-top: 30px;
