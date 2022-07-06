@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Jarry Chung</title>
+    <link>https://www.jarrychung.com/categories/</link>
+    <description>Recent content in Categories on Jarry Chung</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 15 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.jarrychung.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>syntax</title>
+      <link>https://www.jarrychung.com/categories/syntax/</link>
+      <pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.jarrychung.com/categories/syntax/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>uncategorized</title>
+      <link>https://www.jarrychung.com/categories/uncategorized/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.jarrychung.com/categories/uncategorized/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
