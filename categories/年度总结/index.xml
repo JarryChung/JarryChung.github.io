@@ -1,21 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>年度总结 on Jarry Chung</title>
-    <link>https://www.jarrychung.com/categories/%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/</link>
-    <description>Recent content in 年度总结 on Jarry Chung</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 01 Jan 2019 11:21:00 +0800</lastBuildDate><atom:link href="https://www.jarrychung.com/categories/%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>2018这一年 | 以自己喜欢的方式向前漫步</title>
-      <link>https://www.jarrychung.com/posts/annual/2018/</link>
-      <pubDate>Tue, 01 Jan 2019 11:21:00 +0800</pubDate>
-      
-      <guid>https://www.jarrychung.com/posts/annual/2018/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://github.com/JarryChung/Image/blob/main/images/2018%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93%E5%9B%BE.jpeg?raw=true&#34; alt=&#34;2018&#34;&gt;&lt;/p&gt;
-&lt;p&gt;2018年印象很深刻的一句话，来自于节目《知识就是力量》，“人的本质是一段时间”，经营好自己的时间以提升自身内在价值。&lt;/p&gt;</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>年度总结 on Jarry Chung</title><link>https://www.jarrychung.com/categories/%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/</link><description>Recent content in 年度总结 on Jarry Chung</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 11:21:00 +0800</lastBuildDate><atom:link href="https://www.jarrychung.com/categories/%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/index.xml" rel="self" type="application/rss+xml"/><item><title>2018这一年 | 以自己喜欢的方式向前漫步</title><link>https://www.jarrychung.com/posts/annual/2018/</link><pubDate>Tue, 01 Jan 2019 11:21:00 +0800</pubDate><guid>https://www.jarrychung.com/posts/annual/2018/</guid><description>&lt;p>&lt;img src="https://github.com/JarryChung/Image/blob/main/images/2018%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93%E5%9B%BE.jpeg?raw=true" alt="2018">&lt;/p>
+&lt;p>2018年印象很深刻的一句话，来自于节目《知识就是力量》，“人的本质是一段时间”，经营好自己的时间以提升自身内在价值。&lt;/p></description></item></channel></rss>
