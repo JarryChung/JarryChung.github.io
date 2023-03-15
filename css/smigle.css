@@ -1,8 +1,11 @@
 body {
-  font-family: Iosevka, monospace;
+  font-family: AaXianXiaShaoNian, monospace;
   max-width: 750px;
   margin: 0 auto;
   padding: 10px;
+}
+#content {
+  line-height: 1.5;
 }
 #brand {
   display: flex;
