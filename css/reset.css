@@ -11,7 +11,7 @@ html {
 }
 @media (prefers-color-scheme: dark) {
   :root {
-     --bgcolor: black;
+     --bgcolor: #1f1f1f;
      --fontcolor: white;
      --linkcolor: #5bf;
      --visitedcolor: #ae5ee0;
@@ -51,6 +51,7 @@ pre {
   background: var(--prebgcolor);
   padding: 24px;
   overflow-x: auto;
+  font-size: 16px;
 }
 article {
   padding: 5px 0;
